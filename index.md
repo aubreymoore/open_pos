@@ -5,6 +5,7 @@
 
 ### BR210338 Lambda Labs (Aubrey)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210338 LAMBDA LABS INC..pdf'>PO</a>
+* Aubrey emailed Lamda for status of order on 2021-10-05
   
 ### PR210494 Fisher Scientific (Jim)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/APPROVED PR210494 PO ADJ.pdf'>PO</a> 
