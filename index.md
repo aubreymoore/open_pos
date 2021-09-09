@@ -1,6 +1,6 @@
 [PO](APPROVED_BR210358_PO_ADJ.pdf)
 
-* <a href="http://APPROVED BR210358 PO ADJ.pdf">PO</a>   
+* <a href="https://github.com/aubreymoore/open_pos/blob/main/APPROVED%20BR210358%20PO%20ADJ.pdf">PO</a>   
 * 'BR210338 LAMBDA LABS INC..pdf'
 * 'APPROVED PR210494 PO ADJ.pdf'     
 * 'BR210390 ATKINS KROLL.pdf'
