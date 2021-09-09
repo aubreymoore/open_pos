@@ -13,10 +13,10 @@
 ### PR210637 Atkins Kroll (Chris)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/APPROVED PR210637 PO ADJ.pdf'>PO</a>  
 
-### BR210195 Sigma Aldrich (Jimm)
+### BR210195 Sigma Aldrich (Jim)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210195 SIGMA ALDRICH.pdf'>PO</a> 
 
-### PR210569 Fisher Scientific
+### PR210569 Fisher Scientific (Jim)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/PR210569 FISHER SCIENTIFIC.pdf'>PO</a>
 
 ### BR210027 GeneWiz (Jim)
