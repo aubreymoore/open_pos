@@ -2,7 +2,7 @@
 
 ### BR210358 Pacific Tyre (Chris)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/APPROVED%20BR210358%20PO%20ADJ.pdf'>PO</a> 
-* Chris 2021-09-10 Vehical in shop being repaired. 
+* Chris 2021-09-10: Vehical in shop being repaired. 
 
 ### BR210338 Lambda Labs (Aubrey)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210338 LAMBDA LABS INC..pdf'>PO</a>
@@ -13,11 +13,11 @@
 
 ### PR210390 Atkins Kroll (Chris)   
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210390 ATKINS KROLL.pdf'>PO</a>
-* Chris 2021-09-10 Currently working to complete this order
+* Chris 2021-09-10: Currently working to complete this order
 
 ### PR210637 Atkins Kroll (Chris)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/APPROVED PR210637 PO ADJ.pdf'>PO</a>  
-* Chris 2021-09-10 Vendor awaiting arrival of parts
+* Chris 2021-09-10: Vendor awaiting arrival of parts
 
 ### BR210195 Sigma Aldrich (Jim)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210195 SIGMA ALDRICH.pdf'>PO</a> 
@@ -30,4 +30,4 @@
 
 ### PR210593 Marianas Electronics (Roland) 
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/PR210593 ME INTERNATIONAL.pdf'>PO</a>
-* Vendor awaiting arrival of laptop
+* Chris 2021-09-10: Vendor awaiting arrival of laptop
