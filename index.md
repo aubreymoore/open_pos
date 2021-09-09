@@ -2,7 +2,7 @@
 * <a href="https://github.com/aubreymoore/open_pos/blob/main/APPROVED%20BR210358%20PO%20ADJ.pdf">PO</a>  
 
 ### Lambda 
-* <a href="https://github.com/aubreymoore/open_pos/blob/main/BR210338 LAMBDA LABS INC..pdf'
+* <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210338 LAMBDA LABS INC..pdf'>PO</a>
   
 ### Others
 * <a href="https://github.com/aubreymoore/open_pos/blob/main/APPROVED PR210494 PO ADJ.pdf'     
