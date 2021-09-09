@@ -4,13 +4,13 @@
 ### BR210338 Lambda Labs (Aubrey)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210338 LAMBDA LABS INC..pdf'>PO</a>
   
-### PR210494
+### PR210494 Fisher Scientific (Jim)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/APPROVED PR210494 PO ADJ.pdf'>PO</a> 
 
 ### PR210390 Atkins Kroll (Chris)   
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210390 ATKINS KROLL.pdf'>PO</a>
 
-### PR210637
+### PR210637 Atkins Kroll (Chris)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/APPROVED PR210637 PO ADJ.pdf'>PO</a>  
 
 ### BR210195 Sigma Aldrich (Jimm)
