@@ -34,3 +34,6 @@
 * Chris 2021-09-10: Vendor awaiting arrival of laptop
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/macbook_invoice.pdf'>MacBook Invoice</a>
 * 2021-09-16 Contacted Roland about iPad $910 and USB hub $89
+* 2021-09-16 Roland reports that invoices for the iPad and USB hub were given to Chris
+* 2021-09-16 Invoice for MacBook sent to Danica
+* **CLOSED**
