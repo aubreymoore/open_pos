@@ -7,6 +7,7 @@
 ### BR210338 Lambda Labs (Aubrey)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/BR210338 LAMBDA LABS INC..pdf'>PO</a>
 * Aubrey emailed Lamda for status of order on 2021-09-09
+* Is being shipped this week
   
 ### PR210494 Fisher Scientific (Jim)
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/APPROVED PR210494 PO ADJ.pdf'>PO</a> 
@@ -33,4 +34,3 @@
 * Chris 2021-09-10: Vendor awaiting arrival of laptop
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/macbook_invoice.pdf'>MacBook Invoice</a>
 * 2021-09-16 Contacted Roland about iPad $910 and USB hub $89
-* 
