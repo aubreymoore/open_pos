@@ -32,3 +32,5 @@
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/PR210593 ME INTERNATIONAL.pdf'>PO</a>
 * Chris 2021-09-10: Vendor awaiting arrival of laptop
 * <a href='https://github.com/aubreymoore/open_pos/blob/main/macbook_invoice.pdf'>MacBook Invoice</a>
+* 2021-09-16 Contacted Roland about iPad $910 and USB hub $89
+* 
